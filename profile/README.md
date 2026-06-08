@@ -7,7 +7,7 @@ This organization hosts Vintage Story modding projects developed by [@Furio-l](h
 ## Development Setup
 
 The projects within this organization are built using the following specifications:
-* **Vintage Story Version:** v1.22.2
+* **Vintage Story Version:** v1.22
 * **Framework:** .NET 10
 * **IDE:** VS Code
 
